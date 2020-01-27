@@ -2,8 +2,12 @@ repositories:
   gundam_robot:
     type: git
     url: https://github.com/hakuturu583/gundam_robot
-    version: master
+    version: eloquent
   ros2_control:
     type: git
     url: https://github.com/ros-controls/ros2_control.git
     version: eloquent
+  ros2_controllers:
+    type: git
+    url: https://github.com/ros-controls/ros2_controllers.git
+    version: dashing
